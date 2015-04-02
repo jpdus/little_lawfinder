@@ -14,8 +14,6 @@ Please refer to www.udpl.de (german) for more information.
 - Pandas
 - Matplotlib
 
-<br>
-
 **TODO**
 
 - Basic Documentation
